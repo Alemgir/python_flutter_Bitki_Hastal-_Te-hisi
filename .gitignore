@@ -1,0 +1,36 @@
+# Dataset - çok büyük, GitHub'a yüklenmemeli
+split_dataset/
+
+# Büyük model dosyaları (GitHub 100MB limit)
+*.keras
+*.tflite
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.venv/
+venv/
+env/
+
+# Flutter
+plant_disease_detector/build/
+plant_disease_detector/.dart_tool/
+plant_disease_detector/.packages
+plant_disease_detector/.flutter-plugins
+plant_disease_detector/.flutter-plugins-dependencies
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

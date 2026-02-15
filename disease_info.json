@@ -1,0 +1,545 @@
+{
+  "classes": [
+    {
+      "id": 0,
+      "name": "Apple___Apple_scab",
+      "plant": "Apple",
+      "disease": "Apple Scab",
+      "description": "Elma karalekesi (Apple Scab), yapraklarda ve meyvelerde koyu lekeler oluşturan yaygın bir mantar hastalığıdır. Nemli ve ılık havalarda hızla yayılır.",
+      "symptoms": [
+        "Yapraklarda zeytin yeşili veya kahverengi lekeler",
+        "Meyvelerde siyah-kahverengi kabarık lekeler",
+        "Yaprak dökümü ve meyve deformasyonu"
+      ],
+      "treatment": [
+        "Hasta yaprakları ve meyveleri toplayıp imha edin",
+        "Bahar aylarında fungisit (küf önleyici) uygulaması yapın",
+        "Ağaç çevresini temiz tutun, havasını artırın"
+      ],
+      "pesticides": [
+        "Copper-based fungicides (Bakır sülfat)",
+        "Mancozeb",
+        "Myclobutanil",
+        "Captan"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Apple___Black_rot",
+      "plant": "Apple",
+      "disease": "Black Rot",
+      "description": "Siyah çürüklük, elma ağaçlarında yaprak, meyve ve dallarda çürümeye neden olan ciddi bir mantar hastalığıdır.",
+      "symptoms": [
+        "Yapraklarda mor-kahverengi kenarları olan lekeler",
+        "Meyvelerde mumyalaşma ve çürüme",
+        "Dallarda kanser yaraları"
+      ],
+      "treatment": [
+        "Hasta bitki parçalarını budayıp imha edin",
+        "İlkbahar ve yaz aylarında düzenli fungisit uygulayın",
+        "Ağacı dengeli besleyin, aşırı azottan kaçının"
+      ],
+      "pesticides": [
+        "Captan",
+        "Thiophanate-methyl",
+        "Ziram",
+        "Mancozeb"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Apple___Cedar_apple_rust",
+      "plant": "Apple",
+      "disease": "Cedar Apple Rust",
+      "description": "Ardıç-elma pası, elma ve ardıç ağaçları arasında döngü yapan bir mantar hastalığıdır. Yapraklarda turuncu lekeler oluşturur.",
+      "symptoms": [
+        "Yaprak üstünde parlak turuncu-sarı lekeler",
+        "Yaprak altında küçük noktalar",
+        "Erken yaprak dökümü"
+      ],
+      "treatment": [
+        "Çevredeki ardıç ağaçlarını uzaklaştırın (hastalık kaynağı)",
+        "İlkbaharda fungisit spreyi yapın",
+        "Dayanıklı elma çeşitleri yetiştirin"
+      ],
+      "pesticides": [
+        "Myclobutanil",
+        "Propiconazole",
+        "Triadimefon",
+        "Sulfur-based fungicides"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Apple___healthy",
+      "plant": "Apple",
+      "disease": "Healthy",
+      "description": "Elmalarınız sağlıklı görünüyor! Herhangi bir hastalık belirtisi tespit edilmedi.",
+      "symptoms": [
+        "Parlak yeşil yapraklar",
+        "Düzgün yaprak yapısı",
+        "Leke veya deformasyon yok"
+      ],
+      "treatment": [
+        "Düzenli sulama yapın",
+        "Dengeli gübre uygulayın",
+        "Hastalıkları önlemek için ağaç çevresini temiz tutun",
+        "Periyodik kontrol yapmaya devam edin"
+      ],
+      "pesticides": []
+    },
+    {
+      "id": 4,
+      "name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+      "plant": "Corn",
+      "disease": "Cercospora Leaf Spot / Gray Leaf Spot",
+      "description": "Gri yaprak lekesi, mısır bitkilerinde verim kaybına neden olan yaygın bir mantar hastalığıdır.",
+      "symptoms": [
+        "Yapraklarda dikdörtgen şeklinde gri-kahverengi lekeler",
+        "Lekeler zamanla büyür ve birleşir",
+        "Erken yaprak kuruması"
+      ],
+      "treatment": [
+        "Hastalıklı bitki kalıntılarını toprağa karıştırın",
+        "Dayanıklı mısır çeşitleri kullanın",
+        "Fungisit uygulaması yapın",
+        "Ekim rotasyonu uygulayın"
+      ],
+      "pesticides": [
+        "Azoxystrobin",
+        "Pyraclostrobin",
+        "Trifloxystrobin",
+        "Propiconazole"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Corn_(maize)___Common_rust_",
+      "plant": "Corn",
+      "disease": "Common Rust",
+      "description": "Yaygın mısır pası, yapraklarda pas renginde kabarcıklar oluşturan bir mantar hastalığıdır.",
+      "symptoms": [
+        "Yaprak üstünde ve altında pas renginde kabarcıklar",
+        "Kabarcıklar patladığında açık kahverengi spor tozu",
+        "Yoğun enfeksiyonda yaprak sararması"
+      ],
+      "treatment": [
+        "Erken dönemde fungisit spreyi yapın",
+        "Dayanıklı hibrit çeşitleri yetiştirin",
+        "Bitki sıklığını azaltarak hava sirkülasyonu sağlayın"
+      ],
+      "pesticides": [
+        "Azoxystrobin",
+        "Propiconazole",
+        "Tebuconazole",
+        "Trifloxystrobin"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Corn_(maize)___healthy",
+      "plant": "Corn",
+      "disease": "Healthy",
+      "description": "Mısır bitkileriniz sağlıklı! Hastalık tespit edilmedi.",
+      "symptoms": [
+        "Canlı yeşil yapraklar",
+        "Güçlü gövde yapısı",
+        "Herhangi bir leke veya deformasyon yok"
+      ],
+      "treatment": [
+        "Düzenli sulama ve gübreleme yapın",
+        "Yabancı ot kontrolü sağlayın",
+        "Periyodik hastalık kontrolü yapın"
+      ],
+      "pesticides": []
+    },
+    {
+      "id": 7,
+      "name": "Corn_(maize)___Northern_Leaf_Blight",
+      "plant": "Corn",
+      "disease": "Northern Leaf Blight",
+      "description": "Kuzey yaprak yanıklığı, mısırda önemli verim kayıplarına neden olan bir mantar hastalığıdır.",
+      "symptoms": [
+        "Yapraklarda uzun, elips şeklinde gri-yeşil lekeler",
+        "Lekeler zamanla kahverengiye döner",
+        "Ciddi durumlarda tüm yaprak ölümü"
+      ],
+      "treatment": [
+        "Dayanıklı hibrit çeşitler kullanın",
+        "Ekim rotasyonu uygulayın (mısır dışı bitkilerle)",
+        "Fungisit spreyi yapın",
+        "Bitki artıklarını toprağa karıştırın"
+      ],
+      "pesticides": [
+        "Azoxystrobin",
+        "Propiconazole",
+        "Pyraclostrobin",
+        "Prothioconazole"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Pepper__bell___Bacterial_spot",
+      "plant": "Pepper (Bell)",
+      "disease": "Bacterial Spot",
+      "description": "Bakteriyel leke, biber bitkilerinde yaprak ve meyvelerde lekelere neden olan bir bakteri hastalığıdır.",
+      "symptoms": [
+        "Yapraklarda küçük, su emmiş gibi koyu lekeler",
+        "Meyvede kabarcıklı kahverengi lekeler",
+        "Yaprak dökümü ve meyve kalitesinde bozulma"
+      ],
+      "treatment": [
+        "Hastalıksız tohumlar ve fideler kullanın",
+        "Bakır bazlı bakterisitler uygulayın",
+        "Sulamayı yaprağa değil toprak seviyesinde yapın",
+        "Ekim rotasyonu uygulayın"
+      ],
+      "pesticides": [
+        "Copper hydroxide",
+        "Copper sulfate",
+        "Streptomycin (organik tarımda sınırlı)",
+        "Bacillus subtilis (biyolojik kontrol)"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Pepper__bell___healthy",
+      "plant": "Pepper (Bell)",
+      "disease": "Healthy",
+      "description": "Biber bitkileriniz mükemmel durumda! Hastalık belirtisi yok.",
+      "symptoms": [
+        "Koyu yeşil, parlak yapraklar",
+        "Güçlü gövde ve dallar",
+        "Normal büyüme ve gelişme"
+      ],
+      "treatment": [
+        "Düzenli sulama (toprak nemli ama suya batık değil)",
+        "Dengeli gübreleme",
+        "Düzenli hasat ve budama",
+        "Hastalık kontrolü yapmaya devam edin"
+      ],
+      "pesticides": []
+    },
+    {
+      "id": 10,
+      "name": "Potato___Early_blight",
+      "plant": "Potato",
+      "disease": "Early Blight",
+      "description": "Erken yanıklık, patates bitkilerinde yaprak ve yumrularda lekelere neden olan bir mantar hastalığıdır.",
+      "symptoms": [
+        "Alt yapraklarda hedef tahtası şeklinde kahverengi lekeler",
+        "Yapraklarda sararma ve dökülme",
+        "Yumrularda koyu, çökük lekeler"
+      ],
+      "treatment": [
+        "Hasta yaprakları erken dönemde temizleyin",
+        "Fungisit uygulaması yapın",
+        "Ekim rotasyonu uygulayın (3-4 yıl)",
+        "Bitkileri dengeli besleyin"
+      ],
+      "pesticides": [
+        "Chlorothalonil",
+        "Mancozeb",
+        "Azoxystrobin",
+        "Copper-based fungicides"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Potato___healthy",
+      "plant": "Potato",
+      "disease": "Healthy",
+      "description": "Patates bitkileriniz sağlıklı ve güçlü görünüyor!",
+      "symptoms": [
+        "Yeşil, taze yapraklar",
+        "Güçlü gövde yapısı",
+        "Normal büyüme"
+      ],
+      "treatment": [
+        "Toprak nemini kontrol edin",
+        "Potasyum ve azot dengeli gübre uygulayın",
+        "Yabancı ot kontrolü yapın",
+        "Düzenli kontrol yapmaya devam edin"
+      ],
+      "pesticides": []
+    },
+    {
+      "id": 12,
+      "name": "Potato___Late_blight",
+      "plant": "Potato",
+      "disease": "Late Blight",
+      "description": "Geç yanıklık, patates için en yıkıcı hastalıklardan biridir. Hızlı yayılır ve tüm mahsulü yok edebilir.",
+      "symptoms": [
+        "Yapraklarda su emmiş, gri-yeşil lekeler",
+        "Yaprak altında beyaz küf tabakası",
+        "Yumrularda çürüme ve kötü koku",
+        "Çok hızlı yayılma"
+      ],
+      "treatment": [
+        "Hasta bitkileri derhal imha edin",
+        "Önleyici fungisit uygulaması yapın",
+        "Nemli havalarda daha sık ilaçlama yapın",
+        "Sağlıklı tohumluk kullanın"
+      ],
+      "pesticides": [
+        "Metalaxyl",
+        "Mancozeb",
+        "Chlorothalonil",
+        "Cymoxanil",
+        "Fluazinam"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Tomato__Target_Spot",
+      "plant": "Tomato",
+      "disease": "Target Spot",
+      "description": "Hedef leke hastalığı, domates bitkilerinde konsantrik halkalı lekeler oluşturan bir mantar enfeksiyonudur.",
+      "symptoms": [
+        "Yapraklarda hedef tahtası şeklinde kahverengi lekeler",
+        "Konsantrik halkalar içeren lekeler",
+        "Meyve ve gövdede de lekeler görülebilir"
+      ],
+      "treatment": [
+        "Hasta yaprakları temizleyin",
+        "Fungisit spreyi yapın",
+        "Sulamayı yapraklara değil toprağa yapın",
+        "Bitki sıklığını azaltarak havalanma sağlayın"
+      ],
+      "pesticides": [
+        "Chlorothalonil",
+        "Mancozeb",
+        "Azoxystrobin",
+        "Copper-based fungicides"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Tomato__Tomato_mosaic_virus",
+      "plant": "Tomato",
+      "disease": "Tomato Mosaic Virus",
+      "description": "Domates mozaik virüsü, yapraklarda mozaik desenler oluşturan viral bir hastalıktır. Tedavisi yoktur, önleme önemlidir.",
+      "symptoms": [
+        "Yapraklarda açık-koyu yeşil mozaik deseni",
+        "Yaprak deformasyonu ve kıvırılma",
+        "Bodur kalma ve verim kaybı",
+        "Meyvelerde lekeli desenler"
+      ],
+      "treatment": [
+        "Virüslü bitkileri derhal söküp imha edin",
+        "Sağlıklı, sertifikalı fide kullanın",
+        "Eller ve aletleri %10 süt solüsyonu ile dezenfekte edin",
+        "Virüs taşıyan böcekleri (yaprakbiti) kontrol edin"
+      ],
+      "pesticides": [
+        "Virüs için doğrudan ilaç yok",
+        "Yaprakbiti kontrolü için Imidacloprid",
+        "Neem oil (organik seçenek)",
+        "Bacillus thuringiensis (biyolojik kontrol)"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Tomato__Tomato_YellowLeaf__Curl_Virus",
+      "plant": "Tomato",
+      "disease": "Tomato Yellow Leaf Curl Virus",
+      "description": "Sarı yaprak kıvırcıklık virüsü, beyaz sinek tarafından taşınan ve domatesin bodur kalmasına neden olan bir virüs hastalığıdır.",
+      "symptoms": [
+        "Yapraklarda yukarı doğru kıvrılma",
+        "Sarı renk değişimi",
+        "Bodur kalma ve büyüme durması",
+        "Meyve oluşumunda azalma veya tamamen durma"
+      ],
+      "treatment": [
+        "Beyaz sinek popülasyonunu kontrol edin",
+        "Enfekte bitkileri derhal söküp imha edin",
+        "Sarı yapışkan tuzaklar kullanın",
+        "Dayanıklı domates çeşitleri yetiştirin"
+      ],
+      "pesticides": [
+        "Imidacloprid (beyaz sinek için)",
+        "Thiamethoxam",
+        "Acetamiprid",
+        "Neem oil (organik)",
+        "Sarı yapışkan tuzaklar"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Tomato_Bacterial_spot",
+      "plant": "Tomato",
+      "disease": "Bacterial Spot",
+      "description": "Bakteriyel leke, domates yaprak ve meyvelerinde koyu lekeler oluşturan bir bakteri hastalığıdır.",
+      "symptoms": [
+        "Yapraklarda küçük, su emmiş koyu lekeler",
+        "Meyvede küçük, kabarık kahverengi lekeler",
+        "Yaprak dökümü",
+        "Meyve kalitesinde düşüş"
+      ],
+      "treatment": [
+        "Bakır bazlı bakterisitler uygulayın",
+        "Hastalıksız tohum ve fide kullanın",
+        "Yaprağa sulama yapmayın",
+        "Ekim rotasyonu uygulayın (2-3 yıl)"
+      ],
+      "pesticides": [
+        "Copper hydroxide",
+        "Copper sulfate",
+        "Streptomycin",
+        "Bacillus subtilis (biyolojik)"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Tomato_Early_blight",
+      "plant": "Tomato",
+      "disease": "Early Blight",
+      "description": "Erken yanıklık, domates bitkilerinde hedef tahtası şeklinde lekeler oluşturan yaygın bir mantar hastalığıdır.",
+      "symptoms": [
+        "Alt yapraklarda hedef tahtası şeklinde kahverengi lekeler",
+        "Yapraklarda sararma ve dökülme",
+        "Gövdede koyu, çökük lekeler",
+        "Meyve sapı üzerinde de lekeler"
+      ],
+      "treatment": [
+        "Hasta yaprakları erken dönemde temizleyin",
+        "Fungisit uygulaması yapın",
+        "Malçlama yaparak toprağın sıçramasını önleyin",
+        "Bitkileri dengeli besleyin"
+      ],
+      "pesticides": [
+        "Chlorothalonil",
+        "Mancozeb",
+        "Azoxystrobin",
+        "Copper fungicides"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Tomato_healthy",
+      "plant": "Tomato",
+      "disease": "Healthy",
+      "description": "Domates bitkileriniz harika görünüyor! Sağlıklı ve güçlü.",
+      "symptoms": [
+        "Parlak yeşil yapraklar",
+        "Güçlü gövde",
+        "Normal büyüme ve meyve gelişimi",
+        "Herhangi bir hastalık belirtisi yok"
+      ],
+      "treatment": [
+        "Düzenli ve dengeli sulama yapın",
+        "Dengeli gübre uygulayın",
+        "Dalları destekleyin",
+        "Yandan gelen sürgünleri alın",
+        "Düzenli hastalık kontrolü yapın"
+      ],
+      "pesticides": []
+    },
+    {
+      "id": 19,
+      "name": "Tomato_Late_blight",
+      "plant": "Tomato",
+      "disease": "Late Blight",
+      "description": "Geç yanıklık, domateste en yıkıcı hastalıklardan biridir. Çok hızlı yayılır ve tüm bitkiyi öldürebilir.",
+      "symptoms": [
+        "Yapraklarda su emmiş, gri-yeşil lekeler",
+        "Yaprak altında beyaz küf tabakası",
+        "Gövdede kahverengi lekeler",
+        "Meyvelerde sert, kahverengi çürüme"
+      ],
+      "treatment": [
+        "Hasta bitkileri derhal imha edin",
+        "Önleyici fungisit uygulaması yapın",
+        "Nemli havalarda daha sık ilaçlama yapın",
+        "Bitki sıklığını azaltın",
+        "Sulamayı sabah yapın"
+      ],
+      "pesticides": [
+        "Metalaxyl",
+        "Mancozeb",
+        "Chlorothalonil",
+        "Cymoxanil",
+        "Dimethomorph"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Tomato_Leaf_Mold",
+      "plant": "Tomato",
+      "disease": "Leaf Mold",
+      "description": "Yaprak küfü, seralarda ve nemli ortamlarda sık görülen bir mantar hastalığıdır. Yaprak altında sarı-kahverengi küf oluşturur.",
+      "symptoms": [
+        "Yaprak üstünde sarı lekeler",
+        "Yaprak altında gri-kahverengi kadife görünümlü küf",
+        "Yapraklarda kıvrılma ve kuruma",
+        "Ciddi durumlarda yaprak dökümü"
+      ],
+      "treatment": [
+        "Havalandırmayı artırın, nemi düşürün",
+        "Hasta yaprakları temizleyin",
+        "Fungisit uygulaması yapın",
+        "Bitki sıklığını azaltın",
+        "Dayanıklı çeşitler yetiştirin"
+      ],
+      "pesticides": [
+        "Chlorothalonil",
+        "Mancozeb",
+        "Copper fungicides",
+        "Sulfur (kükürt)"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Tomato_Septoria_leaf_spot",
+      "plant": "Tomato",
+      "disease": "Septoria Leaf Spot",
+      "description": "Septoria yaprak lekesi, domates bitkilerinde küçük, yuvarlak lekeler oluşturan yaygın bir mantar hastalığıdır.",
+      "symptoms": [
+        "Yapraklarda küçük, yuvarlak, gri-beyaz lekeler",
+        "Leke merkezinde koyu noktalar (mantar spoları)",
+        "Alt yapraklardan başlayarak yukarı yayılır",
+        "Yaprak dökümü"
+      ],
+      "treatment": [
+        "Hasta yaprakları erken dönemde temizleyin",
+        "Fungisit spreyi yapın",
+        "Malçlama yaparak toprağın sıçramasını önleyin",
+        "Sulamayı yapraklara değil toprağa yapın",
+        "Ekim rotasyonu uygulayın"
+      ],
+      "pesticides": [
+        "Chlorothalonil",
+        "Mancozeb",
+        "Copper fungicides",
+        "Azoxystrobin"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Tomato_Spider_mites_Two_spotted_spider_mite",
+      "plant": "Tomato",
+      "disease": "Spider Mites (Two-spotted Spider Mite)",
+      "description": "İkili noktalı kırmızı örümcek, domates bitkilerinde yaprak altında yaşayan ve bitki özsuyunu emen küçük zararlılardır.",
+      "symptoms": [
+        "Yapraklarda sarı veya beyaz benekler",
+        "Yaprak altında ince örümcek ağları",
+        "Yapraklarda bronzlaşma ve kuruma",
+        "Çok küçük hareketli noktalar (örümcekler)"
+      ],
+      "treatment": [
+        "Bitkileri güçlü su jeti ile yıkayın",
+        "Avcı akarlar (Phytoseiulus persimilis) salın",
+        "Neem yağı veya akar ilaçları kullanın",
+        "Bitki stresini azaltın, düzenli sulayın",
+        "Kuru ve sıcak ortamlardan kaçının"
+      ],
+      "pesticides": [
+        "Abamectin",
+        "Spiromesifen",
+        "Neem oil (organik)",
+        "Insecticidal soap (böcek sabunu)",
+        "Sulfur (kükürt)"
+      ]
+    }
+  ]
+}
